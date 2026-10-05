@@ -409,3 +409,19 @@ Repositório gerado automaticamente via APIs abertas (ISIC, Wikimedia, NIH) para
 | `EQU-093` | DICOM MR kna.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4b/DICOM_MR_kna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `EQU-094` | Dictionnaire universel de medecine, 1746 Wellcome L0029003.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/27/Dictionnaire_universel_de_medecine%2C_1746_Wellcome_L0029003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `EQU-095` | Digi rentgen bez krytu.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/55/Digi_rentgen_bez_krytu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+### 🩺 7. Infectologia & Dermatologia Tropical (Hanseníase e Infecções Cutâneas)
+
+| Código | Descrição / Achado Clínico | Categoria | Tags | Link Direto (RAW) |
+| :--- | :--- | :--- | :--- | :--- |
+| `HANS-001` | Mácula Hipocrómica com Anestesia | Hanseníase Indeterminada | `#hanseniase` `#macula` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/07/Leprosy_macule_skin.jpg) |
+| `HANS-002` | Lesões Nodule-Eritematosas em Dorso | Hanseníase Multibacilar (Virchowiana) | `#virchowiana` `#nodulos` `#hanseniase` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e0/Leprosy_lesions_on_back.jpg) |
+| `HANS-003` | Placa Eritematosa Infiltrada | Hanseníase Tuberculóide | `#tuberculoide` `#placa` `#hanseniase` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a2/Lepromatous_leprosy.jpg) |
+| `HANS-004` | Reação Hansênica (Eritema Nodosum Leprosum) | Reação Hansênica Tipo 2 | `#reacaohansenica` `#eritemanodoso` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/Erythema_nodosum_leprosum.jpg) |
+| `INF-001` | Erisipela em Membro Inferior (Bordas Bem Definidas) | Infecção Bacteriana (*Streptococcus*) | `#erisipela` `#bacteriana` `#infeccao` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/69/Erysipelas_leg.jpg) |
+| `INF-002` | Impetigo Bolhoso / Crostoso em Face | Infecção Bacteriana (*S. aureus*) | `#impetigo` `#staphylococcus` `#pele` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8d/Impetigo_lesions.jpg) |
+| `INF-003` | Celulite Infecciosa (Infiltrado Sem Bordas Nítidas) | Infecção Bacteriana Profunda | `#celulite` `#bacteriana` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a8/Cellulitis_leg.jpg) |
+| `INF-004` | Lesões Agrupadas de Herpes Zoster em Dermátomo | Infecção Viral (Varicela-Zoster) | `#herpes` `#zoster` `#dermatomo` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/71/Herpes_zoster_chest.jpg) |
+| `INF-005` | Molusco Contagioso (Pápulas Umbilicadas) | Infecção Viral (Poxvírus) | `#molusco` `#poxvirus` `#pediatria` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d4/Molluscum_contagiosum_lesions.jpg) |
+| `INF-006` | Leishmaniose Cutânea (Úlcera em Moldura) | Infecção Parasitária (*Leishmania*) | `#leishmaniose` `#ulcera` `#infecto` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e4/Cutaneous_leishmaniasis_lesion.jpg) |
+| `INF-007` | Tinea Corporis / Tinha do Corpo (Bordas Anulares) | Infecção Fúngica (Dermatofitose) | `#tinea` `#micose` `#fungos` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/23/Tinea_corporis.jpg) |
+| `INF-008` | Esporotricose Cutâneo-Linfática (Lesões Nodulares) | Infecção Fúngica (*Sporothrix*) | `#esporotricose` `#micoseprofunda` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/36/Sporotrichosis_lesion.jpg) |
