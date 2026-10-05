@@ -4,108 +4,110 @@ Repositório gerado automaticamente via APIs abertas (ISIC, Wikimedia, NIH) para
 
 ## 🩺 1. Dermatologia & Alterações de Pele (100 Casos)
 
+Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados clínicos conforme o registro de cada imagem no ISIC.
+
 | Código | Descrição | Link Direto (RAW) |
 | :--- | :--- | :--- |
-| `DERM-001` | Lesao Dermatologica ISIC_0000000 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000000/thumbnail) |
-| `DERM-002` | Lesao Dermatologica ISIC_0000001 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000001/thumbnail) |
-| `DERM-003` | Lesao Dermatologica ISIC_0000002 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000002/thumbnail) |
-| `DERM-004` | Lesao Dermatologica ISIC_0000003 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000003/thumbnail) |
-| `DERM-005` | Lesao Dermatologica ISIC_0000004 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000004/thumbnail) |
-| `DERM-006` | Lesao Dermatologica ISIC_0000005 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000005/thumbnail) |
-| `DERM-007` | Lesao Dermatologica ISIC_0000006 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000006/thumbnail) |
-| `DERM-008` | Lesao Dermatologica ISIC_0000007 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000007/thumbnail) |
-| `DERM-009` | Lesao Dermatologica ISIC_0000008 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000008/thumbnail) |
-| `DERM-010` | Lesao Dermatologica ISIC_0000009 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000009/thumbnail) |
-| `DERM-011` | Lesao Dermatologica ISIC_0000010 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000010/thumbnail) |
-| `DERM-012` | Lesao Dermatologica ISIC_0000011 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000011/thumbnail) |
-| `DERM-013` | Lesao Dermatologica ISIC_0000012 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000012/thumbnail) |
-| `DERM-014` | Lesao Dermatologica ISIC_0000013 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000013/thumbnail) |
-| `DERM-015` | Lesao Dermatologica ISIC_0000014 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000014/thumbnail) |
-| `DERM-016` | Lesao Dermatologica ISIC_0000015 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000015/thumbnail) |
-| `DERM-017` | Lesao Dermatologica ISIC_0000016 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000016/thumbnail) |
-| `DERM-018` | Lesao Dermatologica ISIC_0000017 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000017/thumbnail) |
-| `DERM-019` | Lesao Dermatologica ISIC_0000018 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000018/thumbnail) |
-| `DERM-020` | Lesao Dermatologica ISIC_0000019 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000019/thumbnail) |
-| `DERM-021` | Lesao Dermatologica ISIC_0000020 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000020/thumbnail) |
-| `DERM-022` | Lesao Dermatologica ISIC_0000021 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000021/thumbnail) |
-| `DERM-023` | Lesao Dermatologica ISIC_0000022 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000022/thumbnail) |
-| `DERM-024` | Lesao Dermatologica ISIC_0000023 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000023/thumbnail) |
-| `DERM-025` | Lesao Dermatologica ISIC_0000024 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000024/thumbnail) |
-| `DERM-026` | Lesao Dermatologica ISIC_0000025 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000025/thumbnail) |
-| `DERM-027` | Lesao Dermatologica ISIC_0000026 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000026/thumbnail) |
-| `DERM-028` | Lesao Dermatologica ISIC_0000027 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000027/thumbnail) |
-| `DERM-029` | Lesao Dermatologica ISIC_0000028 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000028/thumbnail) |
-| `DERM-030` | Lesao Dermatologica ISIC_0000029 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000029/thumbnail) |
-| `DERM-031` | Lesao Dermatologica ISIC_0000030 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000030/thumbnail) |
-| `DERM-032` | Lesao Dermatologica ISIC_0000031 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000031/thumbnail) |
-| `DERM-033` | Lesao Dermatologica ISIC_0000032 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000032/thumbnail) |
-| `DERM-034` | Lesao Dermatologica ISIC_0000033 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000033/thumbnail) |
-| `DERM-035` | Lesao Dermatologica ISIC_0000034 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000034/thumbnail) |
-| `DERM-036` | Lesao Dermatologica ISIC_0000035 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000035/thumbnail) |
-| `DERM-037` | Lesao Dermatologica ISIC_0000036 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000036/thumbnail) |
-| `DERM-038` | Lesao Dermatologica ISIC_0000037 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000037/thumbnail) |
-| `DERM-039` | Lesao Dermatologica ISIC_0000038 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000038/thumbnail) |
-| `DERM-040` | Lesao Dermatologica ISIC_0000039 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000039/thumbnail) |
-| `DERM-041` | Lesao Dermatologica ISIC_0000040 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000040/thumbnail) |
-| `DERM-042` | Lesao Dermatologica ISIC_0000041 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000041/thumbnail) |
-| `DERM-043` | Lesao Dermatologica ISIC_0000042 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000042/thumbnail) |
-| `DERM-044` | Lesao Dermatologica ISIC_0000043 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000043/thumbnail) |
-| `DERM-045` | Lesao Dermatologica ISIC_0000044 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000044/thumbnail) |
-| `DERM-046` | Lesao Dermatologica ISIC_0000045 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000045/thumbnail) |
-| `DERM-047` | Lesao Dermatologica ISIC_0000046 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000046/thumbnail) |
-| `DERM-048` | Lesao Dermatologica ISIC_0000047 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000047/thumbnail) |
-| `DERM-049` | Lesao Dermatologica ISIC_0000048 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000048/thumbnail) |
-| `DERM-050` | Lesao Dermatologica ISIC_0000049 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000049/thumbnail) |
-| `DERM-051` | Lesao Dermatologica ISIC_0000050 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000050/thumbnail) |
-| `DERM-052` | Lesao Dermatologica ISIC_0000051 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000051/thumbnail) |
-| `DERM-053` | Lesao Dermatologica ISIC_0000052 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000052/thumbnail) |
-| `DERM-054` | Lesao Dermatologica ISIC_0000053 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000053/thumbnail) |
-| `DERM-055` | Lesao Dermatologica ISIC_0000054 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000054/thumbnail) |
-| `DERM-056` | Lesao Dermatologica ISIC_0000055 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000055/thumbnail) |
-| `DERM-057` | Lesao Dermatologica ISIC_0000056 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000056/thumbnail) |
-| `DERM-058` | Lesao Dermatologica ISIC_0000057 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000057/thumbnail) |
-| `DERM-059` | Lesao Dermatologica ISIC_0000058 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000058/thumbnail) |
-| `DERM-060` | Lesao Dermatologica ISIC_0000059 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000059/thumbnail) |
-| `DERM-061` | Lesao Dermatologica ISIC_0000060 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000060/thumbnail) |
-| `DERM-062` | Lesao Dermatologica ISIC_0000061 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000061/thumbnail) |
-| `DERM-063` | Lesao Dermatologica ISIC_0000062 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000062/thumbnail) |
-| `DERM-064` | Lesao Dermatologica ISIC_0000063 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000063/thumbnail) |
-| `DERM-065` | Lesao Dermatologica ISIC_0000064 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000064/thumbnail) |
-| `DERM-066` | Lesao Dermatologica ISIC_0000065 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000065/thumbnail) |
-| `DERM-067` | Lesao Dermatologica ISIC_0000066 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000066/thumbnail) |
-| `DERM-068` | Lesao Dermatologica ISIC_0000067 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000067/thumbnail) |
-| `DERM-069` | Lesao Dermatologica ISIC_0000068 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000068/thumbnail) |
-| `DERM-070` | Lesao Dermatologica ISIC_0000069 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000069/thumbnail) |
-| `DERM-071` | Lesao Dermatologica ISIC_0000070 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000070/thumbnail) |
-| `DERM-072` | Lesao Dermatologica ISIC_0000071 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000071/thumbnail) |
-| `DERM-073` | Lesao Dermatologica ISIC_0000072 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000072/thumbnail) |
-| `DERM-074` | Lesao Dermatologica ISIC_0000073 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000073/thumbnail) |
-| `DERM-075` | Lesao Dermatologica ISIC_0000074 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000074/thumbnail) |
-| `DERM-076` | Lesao Dermatologica ISIC_0000075 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000075/thumbnail) |
-| `DERM-077` | Lesao Dermatologica ISIC_0000076 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000076/thumbnail) |
-| `DERM-078` | Lesao Dermatologica ISIC_0000077 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000077/thumbnail) |
-| `DERM-079` | Lesao Dermatologica ISIC_0000078 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000078/thumbnail) |
-| `DERM-080` | Lesao Dermatologica ISIC_0000079 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000079/thumbnail) |
-| `DERM-081` | Lesao Dermatologica ISIC_0000080 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000080/thumbnail) |
-| `DERM-082` | Lesao Dermatologica ISIC_0000081 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000081/thumbnail) |
-| `DERM-083` | Lesao Dermatologica ISIC_0000082 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000082/thumbnail) |
-| `DERM-084` | Lesao Dermatologica ISIC_0000083 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000083/thumbnail) |
-| `DERM-085` | Lesao Dermatologica ISIC_0000084 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000084/thumbnail) |
-| `DERM-086` | Lesao Dermatologica ISIC_0000085 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000085/thumbnail) |
-| `DERM-087` | Lesao Dermatologica ISIC_0000086 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000086/thumbnail) |
-| `DERM-088` | Lesao Dermatologica ISIC_0000087 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000087/thumbnail) |
-| `DERM-089` | Lesao Dermatologica ISIC_0000088 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000088/thumbnail) |
-| `DERM-090` | Lesao Dermatologica ISIC_0000089 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000089/thumbnail) |
-| `DERM-091` | Lesao Dermatologica ISIC_0000090 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000090/thumbnail) |
-| `DERM-092` | Lesao Dermatologica ISIC_0000091 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000091/thumbnail) |
-| `DERM-093` | Lesao Dermatologica ISIC_0000092 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000092/thumbnail) |
-| `DERM-094` | Lesao Dermatologica ISIC_0000093 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000093/thumbnail) |
-| `DERM-095` | Lesao Dermatologica ISIC_0000094 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000094/thumbnail) |
-| `DERM-096` | Lesao Dermatologica ISIC_0000095 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000095/thumbnail) |
-| `DERM-097` | Lesao Dermatologica ISIC_0000096 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000096/thumbnail) |
-| `DERM-098` | Lesao Dermatologica ISIC_0000097 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000097/thumbnail) |
-| `DERM-099` | Lesao Dermatologica ISIC_0000098 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000098/thumbnail) |
-| `DERM-100` | Lesao Dermatologica ISIC_0000099 | [Acessar Imagem](https://api.isic-archive.com/api/v2/images/ISIC_0000099/thumbnail) |
+| `DERM-001` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~55 anos — ISIC_0000000 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000000.jpg) |
+| `DERM-002` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~30 anos — ISIC_0000001 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000001.jpg) |
+| `DERM-003` | Melanoma (maligno) — membro superior — sexo feminino, ~60 anos — confirmado por histopatologia — ISIC_0000002 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000002.jpg) |
+| `DERM-004` | Nevo displásico (benigno) — membro superior — sexo masculino, ~30 anos — ISIC_0000003 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000003.jpg) |
+| `DERM-005` | Melanoma (maligno) — tronco posterior (dorso) — sexo masculino, ~80 anos — confirmado por histopatologia — ISIC_0000004 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000004.jpg) |
+| `DERM-006` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~40 anos — ISIC_0000005 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000005.jpg) |
+| `DERM-007` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~25 anos — ISIC_0000006 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000006.jpg) |
+| `DERM-008` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~25 anos — ISIC_0000007 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000007.jpg) |
+| `DERM-009` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~30 anos — ISIC_0000008 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000008.jpg) |
+| `DERM-010` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~30 anos — ISIC_0000009 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000009.jpg) |
+| `DERM-011` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~35 anos — ISIC_0000010 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000010.jpg) |
+| `DERM-012` | Nevo melanocítico (benigno) — membro inferior — sexo feminino, ~35 anos — ISIC_0000011 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000011.jpg) |
+| `DERM-013` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo masculino, ~30 anos — ISIC_0000012 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000012.jpg) |
+| `DERM-014` | Melanoma invasivo (maligno) — tronco posterior (dorso) — sexo feminino, ~30 anos — confirmado por histopatologia — ISIC_0000013 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000013.jpg) |
+| `DERM-015` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo masculino, ~35 anos — ISIC_0000014 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000014.jpg) |
+| `DERM-016` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo masculino, ~35 anos — ISIC_0000015 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000015.jpg) |
+| `DERM-017` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~55 anos — ISIC_0000016 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000016.jpg) |
+| `DERM-018` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~50 anos — ISIC_0000017 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000017.jpg) |
+| `DERM-019` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo masculino, ~30 anos — ISIC_0000018 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000018.jpg) |
+| `DERM-020` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~30 anos — ISIC_0000019 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000019.jpg) |
+| `DERM-021` | Nevo displásico (benigno) — tronco anterior (mama) — sexo feminino, ~25 anos — ISIC_0000020 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000020.jpg) |
+| `DERM-022` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~55 anos — ISIC_0000021 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000021.jpg) |
+| `DERM-023` | Melanoma in situ (maligno) — membro inferior — sexo feminino, ~55 anos — confirmado por histopatologia — ISIC_0000022 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000022.jpg) |
+| `DERM-024` | Nevo displásico (benigno) — tronco anterior (mama) — sexo feminino, ~30 anos — ISIC_0000023 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000023.jpg) |
+| `DERM-025` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo masculino, ~45 anos — ISIC_0000024 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000024.jpg) |
+| `DERM-026` | Nevo melanocítico (benigno) — membro inferior — sexo feminino, ~35 anos — ISIC_0000025 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000025.jpg) |
+| `DERM-027` | Melanoma invasivo (maligno) — membro inferior — sexo feminino, ~30 anos — confirmado por histopatologia — ISIC_0000026 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000026.jpg) |
+| `DERM-028` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~35 anos — ISIC_0000027 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000027.jpg) |
+| `DERM-029` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo masculino, ~60 anos — ISIC_0000028 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000028.jpg) |
+| `DERM-030` | Melanoma (maligno) — tronco posterior (dorso) — sexo feminino, ~45 anos — confirmado por histopatologia — ISIC_0000029 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000029.jpg) |
+| `DERM-031` | Melanoma invasivo (maligno) — membro inferior — sexo feminino, ~55 anos — confirmado por histopatologia — ISIC_0000030 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000030.jpg) |
+| `DERM-032` | Melanoma invasivo (maligno) — membro superior — sexo masculino, ~70 anos — confirmado por histopatologia — ISIC_0000031 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000031.jpg) |
+| `DERM-033` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~30 anos — ISIC_0000032 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000032.jpg) |
+| `DERM-034` | Nevo melanocítico (benigno) — membro inferior — sexo feminino, ~45 anos — ISIC_0000033 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000033.jpg) |
+| `DERM-035` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~30 anos — ISIC_0000034 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000034.jpg) |
+| `DERM-036` | Melanoma invasivo (maligno) — membro inferior — sexo feminino, ~25 anos — confirmado por histopatologia — ISIC_0000035 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000035.jpg) |
+| `DERM-037` | Melanoma invasivo (maligno) — membro superior — sexo masculino, ~70 anos — confirmado por histopatologia — ISIC_0000036 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000036.jpg) |
+| `DERM-038` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo masculino, ~70 anos — ISIC_0000037 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000037.jpg) |
+| `DERM-039` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~40 anos — ISIC_0000038 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000038.jpg) |
+| `DERM-040` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~60 anos — ISIC_0000039 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000039.jpg) |
+| `DERM-041` | Melanoma invasivo (maligno) — membro inferior — sexo feminino, ~65 anos — confirmado por histopatologia — ISIC_0000040 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000040.jpg) |
+| `DERM-042` | Nevo displásico (benigno) — membro inferior — sexo feminino, ~40 anos — ISIC_0000041 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000041.jpg) |
+| `DERM-043` | Nevo melanocítico (benigno) — tronco anterior (mama) — sexo masculino, ~50 anos — ISIC_0000042 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000042.jpg) |
+| `DERM-044` | Melanoma invasivo (maligno) — região genital (monte pubiano) — sexo masculino, ~35 anos — confirmado por histopatologia — ISIC_0000043 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000043.jpg) |
+| `DERM-045` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo masculino, ~20 anos — ISIC_0000044 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000044.jpg) |
+| `DERM-046` | Nevo melanocítico (benigno) — membro inferior — sexo masculino, ~30 anos — ISIC_0000045 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000045.jpg) |
+| `DERM-047` | Melanoma invasivo (maligno) — membro superior — sexo feminino, ~60 anos — confirmado por histopatologia — ISIC_0000046 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000046.jpg) |
+| `DERM-048` | Nevo melanocítico (benigno) — membro inferior — sexo masculino, ~70 anos — ISIC_0000047 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000047.jpg) |
+| `DERM-049` | Nevo displásico (benigno) — tronco anterior (abdome) — sexo feminino, ~50 anos — ISIC_0000048 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000048.jpg) |
+| `DERM-050` | Melanoma in situ (maligno) — tronco posterior (dorso) — sexo feminino, ~80 anos — confirmado por histopatologia — ISIC_0000049 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000049.jpg) |
+| `DERM-051` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo masculino, ~30 anos — ISIC_0000050 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000050.jpg) |
+| `DERM-052` | Nevo displásico (benigno) — membro superior — sexo masculino, ~55 anos — ISIC_0000051 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000051.jpg) |
+| `DERM-053` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~40 anos — ISIC_0000052 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000052.jpg) |
+| `DERM-054` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~25 anos — ISIC_0000053 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000053.jpg) |
+| `DERM-055` | Melanoma in situ (maligno) — membro inferior — sexo feminino, ~25 anos — confirmado por histopatologia — ISIC_0000054 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000054.jpg) |
+| `DERM-056` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~40 anos — ISIC_0000055 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000055.jpg) |
+| `DERM-057` | Melanoma in situ (maligno) — membro inferior — sexo feminino, ~55 anos — confirmado por histopatologia — ISIC_0000056 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000056.jpg) |
+| `DERM-058` | Nevo melanocítico (benigno) — membro inferior — sexo feminino, ~40 anos — ISIC_0000057 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000057.jpg) |
+| `DERM-059` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~40 anos — ISIC_0000058 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000058.jpg) |
+| `DERM-060` | Nevo displásico (benigno) — membro inferior — sexo feminino, ~30 anos — ISIC_0000059 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000059.jpg) |
+| `DERM-061` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~35 anos — ISIC_0000060 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000060.jpg) |
+| `DERM-062` | Nevo melanocítico (benigno) — membro inferior — sexo feminino, ~35 anos — ISIC_0000061 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000061.jpg) |
+| `DERM-063` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~40 anos — ISIC_0000062 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000062.jpg) |
+| `DERM-064` | Nevo melanocítico (benigno) — tronco anterior (mama) — sexo feminino, ~45 anos — ISIC_0000063 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000063.jpg) |
+| `DERM-065` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~40 anos — ISIC_0000064 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000064.jpg) |
+| `DERM-066` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~30 anos — ISIC_0000065 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000065.jpg) |
+| `DERM-067` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~55 anos — ISIC_0000066 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000066.jpg) |
+| `DERM-068` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo feminino, ~45 anos — ISIC_0000067 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000067.jpg) |
+| `DERM-069` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~35 anos — ISIC_0000068 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000068.jpg) |
+| `DERM-070` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~15 anos — ISIC_0000069 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000069.jpg) |
+| `DERM-071` | Melanoma invasivo (maligno) — tronco anterior (abdome) — sexo masculino, ~25 anos — confirmado por histopatologia — ISIC_0000070 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000070.jpg) |
+| `DERM-072` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo masculino, ~25 anos — ISIC_0000071 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000071.jpg) |
+| `DERM-073` | Nevo displásico (benigno) — tronco posterior (dorso) — sexo masculino, ~85 anos — ISIC_0000072 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000072.jpg) |
+| `DERM-074` | Nevo melanocítico (benigno) — tronco posterior (dorso) — sexo feminino, ~20 anos — ISIC_0000073 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000073.jpg) |
+| `DERM-075` | Melanoma in situ (maligno) — membro inferior — sexo masculino, ~25 anos — confirmado por histopatologia — ISIC_0000074 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000074.jpg) |
+| `DERM-076` | Nevo melanocítico (benigno) — tronco anterior (abdome) — sexo feminino, ~50 anos — ISIC_0000075 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000075.jpg) |
+| `DERM-077` | Melanoma invasivo nodular (maligno) — tronco posterior (dorso) — sexo masculino, ~55 anos — confirmado por histopatologia — ISIC_0000076 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000076.jpg) |
+| `DERM-078` | Melanoma invasivo tipo lentigo maligno (pele com dano solar crônico) (maligno) — membro superior — sexo masculino, ~80 anos — confirmado por histopatologia — ISIC_0000077 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000077.jpg) |
+| `DERM-079` | Melanoma in situ (maligno) — tronco anterior (abdome) — sexo masculino, ~85 anos — confirmado por histopatologia — ISIC_0000078 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000078.jpg) |
+| `DERM-080` | Nevo displásico (benigno) — membro inferior — sexo feminino, ~55 anos — ISIC_0000079 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000079.jpg) |
+| `DERM-081` | Nevo melanocítico (benigno) — ISIC_0000080 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000080.jpg) |
+| `DERM-082` | Nevo melanocítico (benigno) — ISIC_0000081 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000081.jpg) |
+| `DERM-083` | Nevo melanocítico (benigno) — ISIC_0000082 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000082.jpg) |
+| `DERM-084` | Nevo melanocítico (benigno) — ISIC_0000083 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000083.jpg) |
+| `DERM-085` | Nevo melanocítico (benigno) — ISIC_0000084 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000084.jpg) |
+| `DERM-086` | Nevo melanocítico (benigno) — ISIC_0000085 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000085.jpg) |
+| `DERM-087` | Nevo melanocítico (benigno) — ISIC_0000086 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000086.jpg) |
+| `DERM-088` | Nevo melanocítico (benigno) — ISIC_0000087 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000087.jpg) |
+| `DERM-089` | Nevo melanocítico (benigno) — ISIC_0000088 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000088.jpg) |
+| `DERM-090` | Nevo melanocítico (benigno) — ISIC_0000089 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000089.jpg) |
+| `DERM-091` | Nevo melanocítico (benigno) — ISIC_0000090 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000090.jpg) |
+| `DERM-092` | Nevo melanocítico (benigno) — ISIC_0000091 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000091.jpg) |
+| `DERM-093` | Nevo melanocítico (benigno) — ISIC_0000092 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000092.jpg) |
+| `DERM-094` | Nevo melanocítico (benigno) — ISIC_0000093 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000093.jpg) |
+| `DERM-095` | Nevo melanocítico (benigno) — ISIC_0000094 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000094.jpg) |
+| `DERM-096` | Nevo melanocítico (benigno) — ISIC_0000095 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000095.jpg) |
+| `DERM-097` | Nevo melanocítico (benigno) — ISIC_0000096 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000096.jpg) |
+| `DERM-098` | Nevo melanocítico (benigno) — ISIC_0000097 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000097.jpg) |
+| `DERM-099` | Nevo melanocítico (benigno) — ISIC_0000098 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000098.jpg) |
+| `DERM-100` | Nevo melanocítico (benigno) — ISIC_0000099 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000099.jpg) |
 
 ## 🗂️ Alteracoes Radiologicas (94 Imagens)
 
@@ -413,15 +415,15 @@ Repositório gerado automaticamente via APIs abertas (ISIC, Wikimedia, NIH) para
 
 | Código | Descrição / Achado Clínico | Categoria | Tags | Link Direto (RAW) |
 | :--- | :--- | :--- | :--- | :--- |
-| `HANS-001` | Mácula Hipocrómica com Anestesia | Hanseníase Indeterminada | `#hanseniase` `#macula` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/07/Leprosy_macule_skin.jpg) |
-| `HANS-002` | Lesões Nodule-Eritematosas em Dorso | Hanseníase Multibacilar (Virchowiana) | `#virchowiana` `#nodulos` `#hanseniase` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e0/Leprosy_lesions_on_back.jpg) |
-| `HANS-003` | Placa Eritematosa Infiltrada | Hanseníase Tuberculóide | `#tuberculoide` `#placa` `#hanseniase` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a2/Lepromatous_leprosy.jpg) |
-| `HANS-004` | Reação Hansênica (Eritema Nodosum Leprosum) | Reação Hansênica Tipo 2 | `#reacaohansenica` `#eritemanodoso` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/Erythema_nodosum_leprosum.jpg) |
-| `INF-001` | Erisipela em Membro Inferior (Bordas Bem Definidas) | Infecção Bacteriana (*Streptococcus*) | `#erisipela` `#bacteriana` `#infeccao` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/69/Erysipelas_leg.jpg) |
-| `INF-002` | Impetigo Bolhoso / Crostoso em Face | Infecção Bacteriana (*S. aureus*) | `#impetigo` `#staphylococcus` `#pele` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8d/Impetigo_lesions.jpg) |
-| `INF-003` | Celulite Infecciosa (Infiltrado Sem Bordas Nítidas) | Infecção Bacteriana Profunda | `#celulite` `#bacteriana` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a8/Cellulitis_leg.jpg) |
-| `INF-004` | Lesões Agrupadas de Herpes Zoster em Dermátomo | Infecção Viral (Varicela-Zoster) | `#herpes` `#zoster` `#dermatomo` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/71/Herpes_zoster_chest.jpg) |
-| `INF-005` | Molusco Contagioso (Pápulas Umbilicadas) | Infecção Viral (Poxvírus) | `#molusco` `#poxvirus` `#pediatria` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d4/Molluscum_contagiosum_lesions.jpg) |
-| `INF-006` | Leishmaniose Cutânea (Úlcera em Moldura) | Infecção Parasitária (*Leishmania*) | `#leishmaniose` `#ulcera` `#infecto` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e4/Cutaneous_leishmaniasis_lesion.jpg) |
-| `INF-007` | Tinea Corporis / Tinha do Corpo (Bordas Anulares) | Infecção Fúngica (Dermatofitose) | `#tinea` `#micose` `#fungos` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/23/Tinea_corporis.jpg) |
-| `INF-008` | Esporotricose Cutâneo-Linfática (Lesões Nodulares) | Infecção Fúngica (*Sporothrix*) | `#esporotricose` `#micoseprofunda` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/36/Sporotrichosis_lesion.jpg) |
+| `HANS-001` | Mácula Hipocrômica com Perda de Sensibilidade (Cotovelo) | Hanseníase Paucibacilar | `#hanseniase` `#macula` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/54/Paucibacillary_leprosy_%28PB%29.jpg) |
+| `HANS-002` | Nódulos e Infiltração Difusa em Face, Orelha e Mãos | Hanseníase Multibacilar (Virchowiana) | `#virchowiana` `#nodulos` `#hanseniase` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/17/Lepromatous_leprosy_patient_Madagascar.jpg) |
+| `HANS-003` | Placa Eritematosa de Bordas Bem Definidas no Dorso da Mão (Lesão "em Raquete", com Nervo Espessado) | Hanseníase Tuberculóide | `#tuberculoide` `#placa` `#hanseniase` | [Acessar Imagem](https://openi.nlm.nih.gov/imgs/512/35/4516097/PMC4516097_abd-90-03-0420-g01.png) |
+| `HANS-004` | Reação Hansênica (Eritema Nodosum Leprosum): Nódulos Eritêmato-Hiperpigmentados em Antebraço e Punho | Reação Hansênica Tipo 2 | `#reacaohansenica` `#eritemanodoso` | [Acessar Imagem](https://openi.nlm.nih.gov/imgs/512/253/6859759/PMC6859759_IDOJ-10-663-g010.png) |
+| `INF-001` | Erisipela em Membro Inferior (Eritema Extenso da Perna) | Infecção Bacteriana (*Streptococcus*) | `#erisipela` `#bacteriana` `#infeccao` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d9/%C3%89rysip%C3%A8le_jambe-_Leg_erysipelas.jpg) |
+| `INF-002` | Impetigo Crostoso em Face (Região Nasal) | Infecção Bacteriana (*S. aureus* / *S. pyogenes*) | `#impetigo` `#staphylococcus` `#pele` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/71/Impetigo_Nase.jpg) |
+| `INF-003` | Celulite Infecciosa em Perna (Área de Eritema Demarcada a Caneta) | Infecção Bacteriana Profunda | `#celulite` `#bacteriana` `#dermatologia` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1b/Left_cellulitis_of_leg.jpg) |
+| `INF-004` | Lesões Agrupadas de Herpes Zoster em Dermátomo (Tórax) | Infecção Viral (Varicela-Zoster) | `#herpes` `#zoster` `#dermatomo` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/19/Herpes_zoster_chest.png) |
+| `INF-005` | Molusco Contagioso (Pápulas Umbilicadas) | Infecção Viral (Poxvírus) | `#molusco` `#poxvirus` `#pediatria` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a4/Molluscaklein.jpg) |
+| `INF-006` | Leishmaniose Cutânea (Úlcera em Moldura no Dorso da Mão) | Infecção Parasitária (*Leishmania*) | `#leishmaniose` `#ulcera` `#infecto` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/67/Skin_ulcer_due_to_leishmaniasis%2C_hand_of_Central_American_adult_3MG0037_lores.jpg) |
+| `INF-007` | Tinea Corporis / Tinha do Corpo (Placas Anulares em Tronco) | Infecção Fúngica (Dermatofitose) | `#tinea` `#micose` `#fungos` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5c/Tinea_corporis.jpg) |
+| `INF-008` | Esporotricose em Membro Superior (Lesões Ulceradas ao Longo do Braço) | Infecção Fúngica (*Sporothrix*) | `#esporotricose` `#micoseprofunda` | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7a/Sporotrichosis_by_the_fungus_Sporothrix_schenckii_PHIL_3940_lores.jpg) |
